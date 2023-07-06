@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.5" tiledversion="1.7.2" name="tileset" tilewidth="32" tileheight="32" tilecount="160" columns="16">
- <image source="../../../../../Game dev/Map material/tileset.png" width="512" height="337"/>
+<tileset version="1.10" tiledversion="1.10.1" name="tileset" tilewidth="32" tileheight="32" tilecount="160" columns="16">
+ <image source="tileset.png" width="512" height="337"/>
  <wangsets>
   <wangset name="Unnamed Set" type="mixed" tile="-1">
    <wangcolor name="" color="#ff0000" tile="-1" probability="1"/>
