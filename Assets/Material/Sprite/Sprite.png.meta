@@ -315,7 +315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_10
+      name: "Thuy\u1EC1n nh\u1ECF (ph\u1EA3i)"
       rect:
         serializedVersion: 2
         x: 114
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_14
+      name: "Thuy\u1EC1n nh\u1ECF (tr\xE1i)"
       rect:
         serializedVersion: 2
         x: 114
@@ -407,7 +407,7 @@ TextureImporter:
         width: 44
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -432,16 +432,16 @@ TextureImporter:
     nameFileIdTable:
       Sprite_0: 2100740791
       Sprite_1: -1034362767
-      Sprite_10: -2010139370
       Sprite_12: 513389165
       Sprite_13: 1021513390
-      Sprite_14: -131767514
       Sprite_15: -92308655
       Sprite_2: 227285300
       Sprite_6: -272813773
       Sprite_7: -1501352009
       Sprite_8: 1836746566
       Sprite_9: 1819988650
+      "Thuy\u1EC1n nh\u1ECF (ph\u1EA3i)": -2010139370
+      "Thuy\u1EC1n nh\u1ECF (tr\xE1i)": -131767514
       "Thuy\u1EC1n to (l\xEAn)": -369167765
       "Thuy\u1EC1n to (ph\u1EA3i)": -1118942630
       "Thuy\u1EC1n to (tr\xE1i)": -1666611124
