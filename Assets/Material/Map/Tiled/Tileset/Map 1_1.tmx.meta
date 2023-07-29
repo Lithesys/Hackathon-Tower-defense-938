@@ -1,7 +1,32 @@
 fileFormatVersion: 2
 guid: e49c91c95bbd46d41a14b4c4b53be135
-DefaultImporter:
+ScriptedImporter:
+  internalIDToNameTable: []
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - Could not generate asset path for 'C:/Users/Linh/OneDrive - The University of
+    Technology/Desktop/mapmaking-master/tilesets/gather_islands_1.0.png'
+  - 'Missing texture asset: C:/Users/Linh/OneDrive - The University of Technology/Desktop/mapmaking-master/tilesets/gather_islands_1.0.png'
+  - Could not generate asset path for '../../../../../Game dev/Map material/Tree.tsx'
+  - 'Missing tileset asset: ../../../../../Game dev/Map material/Tree.tsx'
+  warnings:
+  - Tileset 'gather_islands_1.0' is an embedded tileset. Exported tilesets are preferred.
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 26
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 3
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets:
+  - {instanceID: 0}
